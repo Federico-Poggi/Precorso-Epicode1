@@ -1,0 +1,78 @@
+body{
+    background-color: rgba(183, 172, 172, 0.818);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+#title{ background-color: rgb(68, 66, 66);
+    color: rgba(255, 235, 205, 0.73);    
+}
+
+.nomeutente{
+    color:rgb(54, 51, 54);
+}
+
+#svago{
+    display: flex;
+    margin-left: 15px;   
+
+}
+#svago{ 
+    display: block;
+    text-align: center;
+}
+
+#hobby{
+    border-radius: 50pt;
+    text-align: center;
+    display: block;
+    list-style-type:none;
+    border-color:beige;
+    border-style:dashed;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-right: 20pt;
+    padding-top: 20pt;
+    padding-bottom: 20pt;
+    padding-left: 40pt;
+}
+#tabella{
+    margin-left: 42.5%;
+}
+
+   
+
+#esperienze{
+    border-collapse:collapse;
+    text-align-last: center;
+}
+td, th{
+    border: 2px solid;}
+
+#contatti{
+   position: fixed;
+   bottom: 10pt;
+   right: 0;
+   list-style-type: none;
+   display: flex;
+   margin-right: 30pt;
+   display: flex;
+   justify-content: flex-end;
+}
+
+.contatti{
+    padding-left: 30pt;
+}
+
+#logo{
+    width: 50px;
+    height: 50px;
+}
+#facebook{
+    width: 50px;
+    height: 50px;
+}
+
+
+    
+    
