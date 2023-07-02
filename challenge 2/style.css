@@ -1,0 +1,113 @@
+body.nav{
+    background-color: black;
+    margin: 0 0;
+}
+div.Welcome{
+    font-size: 3em;
+    background-color: rgba(175, 171, 171, 0.375);
+    height: 200;
+    align-items: center;
+    
+   
+}
+.album{
+    justify-content: center;
+}
+#logo{
+    justify-content:flex-start;
+    height: 100px;
+    margin-top: 0%;
+    margin-right: 0;
+    position: relative;
+    padding-right: 2%;
+    padding-left: 5%;
+    
+}
+
+
+h1{
+    display:flex;
+    align-items: center;
+    margin-top: 0%;
+    font-size: smaller;
+}
+
+li{
+    padding-right: 5%;
+    font-size: 30px;
+    padding-left: 15%;
+    font-size: 19px;
+    color: rgb(8, 8, 8);
+    
+}
+
+ul{
+    margin-right: 0;
+    margin-bottom: 1%;
+    padding-left: 50%;
+}
+
+h2{
+    color: white;
+}
+    
+input{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color: rgb(148, 14, 14);
+}
+
+#data{
+    margin-top: 5px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+form{
+    display: grid;
+    justify-content: center;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-color: red;
+    border-radius: 20px;
+    width: 50px;
+}
+ 
+#gusti{
+    padding-top: 75px;
+}
+
+#music{
+    display: flex;
+    justify-content: center;
+}
+
+#contatti{
+    position: fixed;
+    bottom: 10pt;
+    right: 0;
+    list-style-type: none;
+    display: flex;
+    margin-right: 30pt;
+    display: flex;
+    justify-content: flex-end;
+ }
+ 
+ .contatti{
+     padding-left: 30pt;
+ }
+    
+ #logo{
+    width: 50px;
+    height: 50px;
+}
+#facebook{
+    width: 50px;
+    height: 50px;
+}
