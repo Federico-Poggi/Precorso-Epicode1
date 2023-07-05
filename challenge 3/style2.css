@@ -1,0 +1,76 @@
+.pagina-iniziale{
+    margin: 0;
+    background-color: rgb(173, 171, 171);
+    font-family: 'Montserrat';
+}
+
+.main-section{
+    padding: 20px 20px;
+}
+
+.img-container{
+    width:auto;
+    height: 500px;
+    width: 1600px;
+    background-image: url(https://www.valle-tures-aurina.com/CustomerData/573/Files/Images/ferienorte/ahrntal/st-johann/kirche-st-johann.jpg);
+    background-size: auto;
+    margin: auto;
+    margin: auto;
+    border: 3px solid;
+    border-radius: 20%;
+    border-color: rgb(173, 171, 171);
+}
+
+h1{
+    font-family:'Prata', serif;
+    font-size: 64px;
+    margin-bottom: 0;
+}
+
+h3{
+    font-size: 24px;
+    font-family: 'Prata', serif;
+    margin: 0;
+    margin-bottom: 0;
+}
+
+.profilo{
+    border: 2px solid;
+    padding: 5px;
+    display: inline;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.to-see{
+    color: white;
+    padding: 22px;
+    margin-top: 56px;
+    margin-bottom: 0;
+    border: 6px solid;
+    border-radius: 10px;
+    border-color: black;
+    background: linear-gradient(45deg, #d20e0ec0, #c0f903ba);
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    padding-top: 6px;
+    padding-bottom: 22px;
+    border-bottom: 1px solid;
+    border-color:#dfdfdf ;
+}
+a:-webkit-any-link{
+    color:#0b4135 ;
+    text-decoration: none;
+}
+
+footer{
+    padding: 16px;
+    text-align: center;
+}
